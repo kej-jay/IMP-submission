@@ -5,10 +5,9 @@
 Reads stdin and calculates the lhipa for the given data
 """
 
-__author__ = "Martin Eigenmann"
+__author__ = "Kay Erik Jenss & Jonas Hermann"
 __license__ = "unlicence"
 __version__ = "0.0.1"
-__email__ = "martin.eigenmann@unisg.ch"
 __status__ = "Prototpye"
 
 import pandas as pd
